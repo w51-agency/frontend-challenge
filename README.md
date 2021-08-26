@@ -19,7 +19,8 @@ Estamos propondo a construção de uma página conforme o layout apresentado e o
 
 Utilize uma estrutura de código organizada e que seja pensada também para a fácil adaptação para o responsivo.
 
-Você deverá utilizar o NextJS e utilizar ou não, typescript.
+Você deverá utilizar o NextJS.
+
 Para a integração com a API, utilize a API https://jsonplaceholder.typicode.com/posts.
 
 Tempo aproximado para Execução: `Máximo de 8 horas`
